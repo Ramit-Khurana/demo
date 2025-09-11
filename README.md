@@ -1,4 +1,4 @@
 # demo
 first git repo.
 <br>
-Author - Ramit Khurana
+Author - Ramit Khurana (LMU)
